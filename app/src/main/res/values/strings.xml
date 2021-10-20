@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">phamducmanh</string>
+    <string-array name="gripe">
+        <item>Gripe</item>
+        <item>Unknow1</item>
+        <item>Unknow2</item>
+
+    </string-array>
+</resources>
